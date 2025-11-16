@@ -9,6 +9,15 @@ $ whoami
 # 💫 About Me:
 Currently a Software Engineering Student <br>fostering my skills in frontend and backend development
 
+I'm a software engineering student with a deep interest in **cybersecurity**, **full‑stack development**, and **systems programming**. I'm currently developing my skills in **Kali Linux**, learning ethical security practices, and exploring tools used in penetration testing.
+
+I enjoy building real‑world projects, learning by doing, and understanding how systems work under the hood.
+
+```
+$ uptime
+> Currently fostering skills in: Kali Linux, Networking, Secure Coding
+```
+
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:t.rankuatsana@gmail.com) 
