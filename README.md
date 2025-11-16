@@ -21,6 +21,8 @@ Currently a Software Engineering Student <br>fostering my skills in frontend and
 ---
 [![](https://visitcount.itsvg.in/api?id=Tebello-Rankuatsana&icon=0&color=0)](https://visitcount.itsvg.in)
 
+![Tebello's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tebello-Rankuatsana&show_icons=true&theme=chartreuse-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tebello-Rankuatsana&layout=compact&theme=chartreuse-dark)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!--
