@@ -1,6 +1,6 @@
 #  **Tebello Rankuatsana**
 
-### *Aspiring Software Engineer | Cybersecurity Enthusiast | Full‑Stack Learner* /
+### *Aspiring Software Engineer | Cybersecurity Enthusiast | Full‑Stack Learner* 
 
 ```
 $ whoami
