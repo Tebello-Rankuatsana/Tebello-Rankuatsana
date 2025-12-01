@@ -1,4 +1,4 @@
-#  **Tebello Rankuatsana**
+#  **Tebello J Rankuatsana**
 
 ### *Aspiring Software Engineer | Cybersecurity Enthusiast | Full‑Stack Learner* 
 
