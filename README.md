@@ -38,6 +38,16 @@ nmap -sV -p {just_ranks}
 $ sudo apt-get update && sudo apt-get upgrade
 > Constantly improving my skills and expanding my toolset...
 ```
+```
+           _______________________________
+         /   _____/\_   _____/\__    ___/
+         \_____  \  |    __)_   |    |
+         /        \ |        \  |    |
+        /_______  //_______  /  |____|
+                \/         \/       
+```
+
+
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=Tebello-Rankuatsana&theme=dark&hide_border=false)
 ![Tebello's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tebello-Rankuatsana&show_icons=true&theme=chartreuse-dark)
