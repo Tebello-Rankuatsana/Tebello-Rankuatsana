@@ -4,7 +4,7 @@
 
 ```
 $ whoami
-> tebello_rankuatsana aka the Goat🐐
+> tebello_rankuatsana
 ```
 # 💫 About Me:
 I'm a software engineering student with a deep interest in **cybersecurity**, **full‑stack development**, and **systems programming**. I'm currently developing my skills in **Kali Linux**, learning ethical security practices, and exploring tools used in penetration testing.
