@@ -1,7 +1,8 @@
 #  **Tebello J Rankuatsana**
 
 ### *Aspiring Software Engineer | Cybersecurity Enthusiast | Full‑Stack Learner* 
-
+<br>
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=6021631" style='border:none;'></iframe>
 ```
 $ whoami
 > tebello_rankuatsana
