@@ -1,5 +1,7 @@
 #  **Tebello J Rankuatsana**
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+Ranks's+page;Enjoy)](https://git.io/typing-svg)
+
 ### *Software Engineering Enthusiast  | Cybersecurity Enthusiast| _Cloud Computing Enthusiast_ | Infosec Enthusiast*
 
 ```
