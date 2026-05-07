@@ -21,7 +21,9 @@ $ learning --current
 > Networking fundamentals
 > Secure backend development
 > Cloud deployment & DevOps
-> Graph databases & fraud detection systems
+> NoSQL
+> 3d Modelling in 3ds Max
+> Frontend Design
 ```
 # Goals
 ```
