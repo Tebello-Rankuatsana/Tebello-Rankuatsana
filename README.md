@@ -9,6 +9,11 @@ $ whoami
 # 👤 About Me:
 I'm a software engineering student with a deep interest in **cybersecurity**, **full‑stack development**, and **systems programming**. I'm currently developing my skills in **Kali Linux**, learning ethical security practices, and exploring tools used in penetration testing.
 
+```
+$ uptime
+> Currently fostering skills in: Kali Linux, Networking, Secure Coding
+```
+
 # What I'm Learning Right Now
 ```
 $ learning --current
@@ -26,10 +31,6 @@ $ goals --2026
 > Strengthen cloud & DevOps skills
 > Deepen cybersecurity knowledge
 > Build strong system design foundations
-```
-```
-$ uptime
-> Currently fostering skills in: Kali Linux, Networking, Secure Coding
 ```
 
 ## 🌐 Socials:
