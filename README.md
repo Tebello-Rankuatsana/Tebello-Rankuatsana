@@ -1,6 +1,6 @@
 #  **Tebello J Rankuatsana**
 
-### *Software Engineering Enthusiast  | Cybersecurity Enthusiast | Full‑Stack Learner | _Cloud Computing Enthusiast_ |Infosec Enthusiast*
+### *Software Engineering Enthusiast  | Cybersecurity Enthusiast| _Cloud Computing Enthusiast_ | Infosec Enthusiast*
 
 ```
 $ whoami
