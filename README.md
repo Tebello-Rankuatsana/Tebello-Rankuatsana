@@ -9,13 +9,31 @@ $ whoami
 # 👤 About Me:
 I'm a software engineering student with a deep interest in **cybersecurity**, **full‑stack development**, and **systems programming**. I'm currently developing my skills in **Kali Linux**, learning ethical security practices, and exploring tools used in penetration testing.
 
+# What I'm Learning Right Now
+```
+$ learning --current
+> Linux internals
+> Networking fundamentals
+> Secure backend development
+> Cloud deployment & DevOps
+> Graph databases & fraud detection systems
+```
+# Goals
+```
+$ goals --2026
+> Publish multiple production-ready projects
+> Contribute to open-source
+> Strengthen cloud & DevOps skills
+> Deepen cybersecurity knowledge
+> Build strong system design foundations
+```
 ```
 $ uptime
 > Currently fostering skills in: Kali Linux, Networking, Secure Coding
 ```
 
 ## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:t.rankuatsana@gmail.com) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:justranku@gmail.com) 
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Nmap](https://img.shields.io/badge/Nmap-4B275F?style=for-the-badge\&logo=nmap\&logoColor=white)
