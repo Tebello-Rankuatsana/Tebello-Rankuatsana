@@ -1,6 +1,6 @@
 #  **Tebello J Rankuatsana**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=welcome+to+the+ranks+trove+of+exploration;Buckle+UP)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=welcome+to+the+rank's+page;a+trove+of+exploration)](https://git.io/typing-svg)
 
 ### *Software Engineering Enthusiast  | Cybersecurity Enthusiast| _Cloud Computing Enthusiast_ | Infosec Enthusiast*
 
