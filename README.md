@@ -6,6 +6,14 @@
 $ whoami
 > tebello_rankuatsana
 ```
+```
+$ sudo apt-get update && sudo apt-get upgrade
+> Knowledge upgraded successfully.
+
+$ git commit -m "small improvements every day"
+> 1 file changed, future improved
+```
+
 # 👤 About Me:
 I'm a software engineering student with a deep interest in **cybersecurity**, **full‑stack development**, and **systems programming**. I'm currently developing my skills in **Kali Linux**, learning ethical security practices, and exploring tools used in penetration testing.
 
