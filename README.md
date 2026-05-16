@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4500&pause=1050&color=39FF14&background=F8FFCB00&width=435&lines=Ranks's+Trove+of+Brilliance;Enjoy+the+experience%F0%9F%98%8E)](https://git.io/typing-svg)
 
-### *Software Engineering Enthusiast  | Cybersecurity Enthusiast| _Cloud Computing Enthusiast_ | Infosec Enthusiast | Design Enthusiast*
+### *Software Engineering Enthusiast  | Cybersecurity Enthusiast | _Cloud Computing Enthusiast_ | Infosec Enthusiast | Design Enthusiast*
 
 ```
 $ whoami
@@ -25,7 +25,7 @@ $ git commit -m "small improvements every day"
 ```
 
 # 👤 About Me:
-I'm a software engineering student with a deep interest in **cybersecurity**, **full‑stack development**, and **systems programming**. I'm currently developing my skills in **Kali Linux**, learning ethical security practices, and exploring tools used in penetration testing.
+I'm a software engineering student with a deep interest in **cybersecurity**, **full‑stack development**, **graphic design** and **systems programming**. I'm currently developing my skills in **Kali Linux**, learning ethical security practices, and exploring tools used in penetration testing as well as **3d modelling** using **3ds Max**.
 
 ```
 $ uptime
