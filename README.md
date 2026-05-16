@@ -51,6 +51,8 @@ $ goals --2026
 > Strengthen cloud & DevOps skills
 > Deepen cybersecurity knowledge
 > Build strong system design foundations
+> Improve my 3d Modelling skills
+> Learn 3d Character Animation
 ```
 
 ## 🌐 Reach out:
