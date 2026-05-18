@@ -24,7 +24,7 @@ $ git commit -m "small improvements every day"
 > 1 file changed, future improved
 ```
 
-# 👤 About Me:
+# About Me:
 I'm a software engineering student with a deep interest in **cybersecurity**, **full‑stack development**, **graphic design** and **systems programming**. I'm currently developing my skills in **Kali Linux**, learning ethical security practices, and exploring tools used in penetration testing as well as **3d modelling** using **3ds Max**.
 
 ```
@@ -55,7 +55,7 @@ $ goals --2026
 > Learn 3d Character Animation
 ```
 
-## 🌐 Reach out:
+## Reach out:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:justranku@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tebello-rankuatsana-635b37289/)
 
 # 💻 Tech Stack:
