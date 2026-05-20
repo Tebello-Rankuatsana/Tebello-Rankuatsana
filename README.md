@@ -112,3 +112,6 @@ $ sudo apt-get update && sudo apt-get upgrade
  |_| \_\__,_|_| |_|_|\_\
        R A N K S
 ```
+
+## Currently doing
+I've recently enrolled into the **ISC2 Certification in Cybersecurity** in an attempt to further my knowledge in the field of Cybersecurity.
