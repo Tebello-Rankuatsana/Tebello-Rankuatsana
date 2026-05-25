@@ -42,7 +42,7 @@ $ learning --current
 > Cloud deployment & DevOps
 > NoSQL(Neo4j, MongoDB)
 > 3d Modelling in 3ds Max
-> Frontend Design
+> Frontend Design(using the dreaded CSS)
 ```
 # Goals
 ```
