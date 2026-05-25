@@ -25,21 +25,22 @@ $ git commit -m "small improvements every day"
 ```
 
 # About Me:
-I'm a software engineering student with a deep interest in **cybersecurity**, **full‑stack development**, **graphic design** and **systems programming**. I'm currently developing my skills in **Kali Linux**, learning ethical security practices, and exploring tools used in penetration testing as well as **3d modelling** using **3ds Max**.
+I'm a software engineering student with a deep interest in **cybersecurity**, **full‑stack development**, **graphic design** and **systems programming**. I'm currently developing my skills in **Linux**, learning ethical security practices, and exploring tools used in penetration testing as well as **3d modelling** using **3ds Max**.
 
 ```
 $ uptime
-> Currently fostering skills in: Kali Linux, Networking, Secure Coding
+> Currently fostering skills in: 3D Modelling, Linux, Networking, Java 
 ```
 
 # What I'm Learning Right Now
 ```
 $ learning --current
-> Linux internals
+> ISC2 CC
+> Linux fundamentals
 > Networking fundamentals
 > Secure backend development
 > Cloud deployment & DevOps
-> NoSQL
+> NoSQL(Neo4j, MongoDB)
 > 3d Modelling in 3ds Max
 > Frontend Design
 ```
