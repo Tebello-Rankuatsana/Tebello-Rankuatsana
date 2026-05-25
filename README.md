@@ -101,14 +101,6 @@ $ sudo apt-get update && sudo apt-get upgrade
 ---
 [![](https://visitcount.itsvg.in/api?id=Tebello-Rankuatsana&icon=0&color=0)](https://visitcount.itsvg.in)
 
-```
-  ____             _          
- |  _ \ __ _ _ __ | | ___  
- | |_) / _` | '_ \| |/ / 
- |  _ < (_| | | | |   <  
- |_| \_\__,_|_| |_|_|\_\
-       R A N K S
-```
 
 ## 
 I've recently enrolled into the **ISC2 Certification in Cybersecurity** in an attempt to further my knowledge in the field of Cybersecurity.
@@ -148,3 +140,11 @@ I've recently enrolled into the **ISC2 Certification in Cybersecurity** in an at
 
 ```
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+```
+  ____             _          
+ |  _ \ __ _ _ __ | | ___  
+ | |_) / _` | '_ \| |/ / 
+ |  _ < (_| | | | |   <  
+ |_| \_\__,_|_| |_|_|\_\
+       R A N K S
+```
