@@ -37,8 +37,11 @@ $ uptime
 $ learning --current
 > ISC2 CC
 > Linux fundamentals
+> Database Systems
+> Probability & Statistics
 > Networking fundamentals
 > Secure backend development
+> JavaFX
 > Cloud deployment & DevOps
 > NoSQL(Neo4j, MongoDB)
 > 3d Modelling in 3ds Max
@@ -47,10 +50,10 @@ $ learning --current
 # Goals
 ```
 $ goals --2026
-> Publish multiple production-ready projects
-> Contribute to open-source
+> Publish multiple production ready projects
+> Contribute to open-source projects
 > Strengthen cloud & DevOps skills
-> Deepen cybersecurity knowledge
+> Deepen cybersecurity knowledge(currently enrolled in ISC2 CC)
 > Build strong system design foundations
 > Improve my 3d Modelling skills
 > Learn 3d Character Animation
