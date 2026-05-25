@@ -74,7 +74,7 @@ $ goals --2026
 
 * Penetration testing basics
 * Network scanning & enumeration
-* Linux privilege understanding
+* Linux privilege escalation
 * Secure coding essentials
 
 ```
