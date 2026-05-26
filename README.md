@@ -37,7 +37,7 @@ $ uptime
 $ learning --current
 > ISC2 CC
 > Linux fundamentals
-> Database Systems
+> Database Systems(Advanced SQL Concepts)
 > Probability & Statistics
 > Networking fundamentals
 > Secure backend development
@@ -46,6 +46,7 @@ $ learning --current
 > NoSQL(Neo4j, MongoDB)
 > 3d Modelling in 3ds Max
 > Frontend Design(using the dreaded CSS and ReactJS)
+> AI and ML basics
 ```
 # Goals
 ```
