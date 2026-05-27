@@ -53,6 +53,7 @@ $ learning --current
 $ goals --2026
 > Publish multiple production ready projects
 > Contribute to open-source projects
+> Mastery of Advanced SQL and NoSQL
 > Strengthen cloud & DevOps skills
 > Deepen cybersecurity knowledge(currently enrolled in ISC2 CC)
 > Build strong system design foundations
