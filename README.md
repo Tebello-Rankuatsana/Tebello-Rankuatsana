@@ -1,6 +1,6 @@
 #  **Tebello "ranks" Rankuatsana**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4500&pause=1050&color=39FF14&background=F8FFCB00&width=435&lines=Ranks's+Trove+of+Brilliance;Enjoy+the+experience%F0%9F%98%8E)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4500&pause=1050&color=39FF14&background=F8FFCB00&width=435&lines=Ranks's+Trove+of+brilliance;Enjoy+the+experience%F0%9F%98%8E)](https://git.io/typing-svg)
 
 ### *Cybersecurity Enthusiast | _Cloud Computing Enthusiast_ | Design Enthusiast | 3d Modelling & Animation Enthusiast*
 
