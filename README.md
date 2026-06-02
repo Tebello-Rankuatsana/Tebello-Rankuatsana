@@ -41,7 +41,7 @@ $ learning --current
 > Probability & Statistics
 > Networking fundamentals
 > Secure backend development
-> Lua
+> JavaFX
 > Cloud deployment & DevOps
 > NoSQL(Neo4j, MongoDB)
 > 3d Modelling in 3ds Max
