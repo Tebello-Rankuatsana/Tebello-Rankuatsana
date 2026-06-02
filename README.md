@@ -62,7 +62,7 @@ $ goals --2026
 ```
 
 # My Stats:
-![](https://github-readme-stats.shion.dev/api?username=Tebello-Rankuatsana&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-stats.shion.dev/api?username=Tebello-Rankuatsana&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
 ![](https://streak-stats.demolab.com/?user=Tebello-Rankuatsana&theme=dark&hide_border=false)
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Tebello-Rankuatsana&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
