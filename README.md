@@ -61,6 +61,11 @@ $ goals --2026
 > Learn 3d Character Animation
 ```
 
+# My Stats:
+![](https://github-readme-stats.shion.dev/api?username=Tebello-Rankuatsana&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Tebello-Rankuatsana&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Tebello-Rankuatsana&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
 ## Reach out:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:justranku@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tebello-rankuatsana-635b37289/)
 
