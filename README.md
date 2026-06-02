@@ -131,5 +131,3 @@ $ goals --2026
  |_| \_\__,_|_| |_|_|\_\
        R A N K S
 ```
----
-[![](https://komarev.com/ghpvc/?username=Tebello-Rankuatsana&icon=0&color=0)](https://visitcount.itsvg.in)
