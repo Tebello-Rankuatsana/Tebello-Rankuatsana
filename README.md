@@ -29,7 +29,7 @@ I'm a software engineering student with a deep interest in **cybersecurity**, **
 
 ```
 $ uptime
-> Currently fostering skills in: 3D Modelling, Linux, Networking, Java 
+> Currently fostering skills in: 3D Modelling(Using 3ds Max), Linux, Networking, Java 
 ```
 
 # What I'm Learning Right Now
