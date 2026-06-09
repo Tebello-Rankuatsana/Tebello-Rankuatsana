@@ -25,7 +25,8 @@ $ git commit -m "small improvements every day"
 ```
 
 # About Me:
-I'm a software engineering student with a deep interest in **cybersecurity**, **full‑stack development**, **graphic design** and **systems programming**. I'm currently developing my skills in **Linux**, learning ethical security practices, and exploring tools used in penetration testing as well as **3d modelling** using **3ds Max**.
+I go by the name "ranks", I'm a curious individual with a deep interest in **learning**, whether it be **3d Modelling**,**Java**,**Javascript**,**Cybersecurity** and **full-stack development**. I enjoy deep diving into complex topics and turn my curious into practical skills.<br/>
+**NB:I'm also a tekken Master(self-proclaimed)**
 
 ```
 $ uptime
