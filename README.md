@@ -37,7 +37,7 @@ $ uptime
 # What I'm Learning Right Now
 ```
 $ learning --current
-> ISC2 CC
+> ISC2 Certification in Cybersecurity
 > Linux fundamentals
 > Database Systems(Advanced SQL Concepts)
 > Probability & Statistics
