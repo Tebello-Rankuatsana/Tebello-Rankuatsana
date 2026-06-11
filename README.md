@@ -6,7 +6,7 @@
 
 ```
 $ whoami
-> tebello_rankuatsana
+> ranks
 ```
 ```
   ____             _          
