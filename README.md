@@ -50,6 +50,7 @@ $ learning --current
 > Frontend Design(using the dreaded CSS and ReactJS)
 > AI and ML basics
 > Discrete Mathematics
+> Javascript
 ```
 # Goals
 ```
