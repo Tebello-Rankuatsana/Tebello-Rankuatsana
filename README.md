@@ -51,6 +51,7 @@ $ learning --current
 > AI and ML basics
 > Discrete Mathematics
 > Javascript
+> 3d Animation
 ```
 # Goals
 ```
