@@ -66,7 +66,7 @@ $ goals --2026
 > Learn 3d Character Animation
 > Create an app/webapp that integrates AI and ML
 ```
-
+---
 
 ![3ds Max](https://img.shields.io/badge/Autodesk%203ds%20Max-00ADEF?style=for-the-badge&logo=autodesk&logoColor=white) ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white) ![CTF](https://img.shields.io/badge/Capture%20The%20Flag-111111?style=for-the-badge&logo=hackthebox&logoColor=9FEF00) ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white) ![Web Security](https://img.shields.io/badge/Web%20Security-0A66C2?style=for-the-badge&logo=cloudflare&logoColor=white) ![Cisco Packet Tracer](https://img.shields.io/badge/Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Network Security](https://img.shields.io/badge/Network%20Security-00599C?style=for-the-badge&logo=cisco&logoColor=white)
