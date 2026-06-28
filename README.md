@@ -9,14 +9,6 @@ $ whoami
 > ranks
 ```
 ```
-  ____             _          
- |  _ \ __ _ _ __ | | ___  
- | |_) / _` | '_ \| |/ / 
- |  _ < (_| | | | |   <  
- |_| \_\__,_|_| |_|_|\_\
-       R A N K S
-```
-```
 $ sudo apt-get update && sudo apt-get upgrade
 > Knowledge upgraded successfully.
 
