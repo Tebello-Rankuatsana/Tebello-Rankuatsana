@@ -114,7 +114,10 @@ $ goals --2026
 ```
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Tebello-Rankuatsana&theme=vue&hide_border=true&cache_seconds=86400" alt="Tebello-Rankuatsana's GitHub Streak" width="49%" />
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Tebello-Rankuatsana&theme=vue&radius=10" alt="Tebello-Rankuatsana's Activity Graph" />
+</p>
+<p align="center">
+  <img src="/3d-city.gif" alt="3D City View Preview" width="100%" />
 </p>
 
 
