@@ -148,12 +148,6 @@ $ goals --2026
 <div align="center">
   <img src="profile-3d-city.svg" alt="3D City" width="100%" />
 </div>⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀
-<br/>⠀
-<p align="center">
-  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
-</p>
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ```
