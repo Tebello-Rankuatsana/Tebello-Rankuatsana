@@ -30,7 +30,7 @@ $ git commit -m "small improvements every day"
 # About Me:
 I go by the name "ranks", I'm a curious individual with a deep interest in **learning**, whether it be **3d Modelling**, **Java** ,**Javascript** ,**Cybersecurity** and **full-stack development**. I enjoy deep diving into complex topics and turning my curiosity into practical skills.<br/>
 <br/>
-**NB: I'm also a tekken Master(self-proclaimed)**
+**NB: I'm also a Tekken Master(self-proclaimed)**
 
 ```
 $ uptime
