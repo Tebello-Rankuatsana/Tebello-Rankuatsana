@@ -113,7 +113,9 @@ $ goals --2026
        R A N K S
 ```
 
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Tebello-Rankuatsana&theme=vue&hide_border=true&cache_seconds=86400" alt="Tebello-Rankuatsana's GitHub Streak" width="49%" />
+</p>
 
 
 
