@@ -68,6 +68,7 @@ $ goals --2026
 > Improve my 3d Modelling skills
 > Learn 3d Character Animation
 > Create an app/webapp that integrates AI and ML
+> Get the ISC2 CC certification
 ```
 
 
