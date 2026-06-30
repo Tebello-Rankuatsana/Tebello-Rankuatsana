@@ -47,6 +47,7 @@ $ learning --current
 > Networking fundamentals
 > Secure backend development
 > JavaFX
+> FXGL library
 > Cloud deployment & DevOps
 > NoSQL(Neo4j, MongoDB)
 > 3d Modelling in 3ds Max
