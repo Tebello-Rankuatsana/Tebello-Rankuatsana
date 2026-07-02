@@ -56,6 +56,7 @@ $ learning --current
 > Discrete Mathematics
 > Javascript
 > 3d Animation
+> Trying to understand Docker
 ```
 # Goals
 ```
