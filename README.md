@@ -44,8 +44,6 @@ $ learning --current
 > Linux fundamentals
 > Database Systems(Advanced SQL Concepts)
 > Probability & Statistics
-> Networking fundamentals
-> Secure backend development
 > JavaFX
 > FXGL library
 > Cloud deployment & DevOps
