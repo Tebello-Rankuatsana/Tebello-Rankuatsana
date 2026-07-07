@@ -55,6 +55,7 @@ $ learning --current
 > Javascript
 > 3d Animation
 > Trying to understand Docker
+> Adobe After effects
 ```
 # Goals
 ```
