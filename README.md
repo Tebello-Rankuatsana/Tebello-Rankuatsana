@@ -70,6 +70,7 @@ $ goals --2026
 > Learn 3d Character Animation
 > Create an app/webapp that integrates AI and ML
 > Get the ISC2 CC certification
+> Improving my skills in react
 ```
 
 
