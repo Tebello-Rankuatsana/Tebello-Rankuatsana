@@ -56,6 +56,7 @@ $ learning --current
 > 3d Animation
 > Trying to understand Docker
 > Adobe After effects
+> Sharpening my skills in Adobe Affects and Adobe Illustrator
 ```
 # Goals
 ```
