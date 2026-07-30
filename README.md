@@ -53,7 +53,7 @@ $ learning --current
 > AI and ML basics
 > Discrete Mathematics
 > Javascript
-> 3d Animation
+> 3d Animation in 3ds Max
 > Trying to understand Docker
 > Sharpening my skills in Adobe Ps and Adobe Illustrator
 ```
