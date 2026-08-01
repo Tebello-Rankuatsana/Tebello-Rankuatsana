@@ -42,7 +42,7 @@ $ learning --current
 > JavaFX
 > FXGL library
 > Cloud deployment & DevOps
-> NoSQL(Neo4j, MongoDB)
+> NoSQL
 > 3d Modelling in 3ds Max
 > Frontend Design(using the dreaded CSS and ReactJS)
 > AI and ML basics
