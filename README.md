@@ -66,7 +66,7 @@ $ goals --2026
 > Create an app/webapp that integrates AI and ML
 > Get the ISC2 CC certification
 > Improving my skills in react
-> Improved Adobe Ps & Adobe Il skills
+> Improved Adobe Ps & Adobe Illustrator skills
 ```
 
 
