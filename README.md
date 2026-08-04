@@ -29,7 +29,7 @@ I go by the name "ranks", I'm a curious individual with a deep interest in **lea
 
 ```
 $ uptime
-> Currently fostering skills in: 3D Modelling, Linux, Networking, Java and delivering punishment in tekken
+> Currently fostering skills in: 3D Modelling, Networking, Java and delivering punishment in tekken
 ```
 
 # What I'm Learning Right Now
