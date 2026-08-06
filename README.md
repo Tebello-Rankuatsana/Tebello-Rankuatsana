@@ -45,7 +45,6 @@ $ learning --current
 > NoSQL
 > 3d Modelling in 3ds Max
 > Frontend Design(using the dreaded CSS and ReactJS)
-> AI and ML basics
 > Discrete Mathematics
 > Javascript
 > 3d Animation in 3ds Max
