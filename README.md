@@ -6,7 +6,7 @@
 
 ```
 $ whoami
-> ranks
+> ranks.
 ```
 ```
 $ sudo apt-get update && sudo apt-get upgrade
