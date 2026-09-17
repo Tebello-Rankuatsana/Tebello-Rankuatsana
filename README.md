@@ -13,7 +13,7 @@ $ sudo apt-get update && sudo apt-get upgrade
 > knowledge upgraded successfully
 
 $ git commit -m "small improvements every day"
-> 1 file changed, future improved, skills gained.
+> 1 file changed, future improved, skills gained
 ```
 ---
 
