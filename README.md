@@ -25,7 +25,6 @@ $ git commit -m "small improvements every day"
 # About Me:
 I go by the name "ranks", I'm a curious individual with a deep interest in **learning**, whether it be **3d Modelling(3ds Max)**, **Java** ,**Javascript(React)** ,**Cybersecurity** and **full-stack development**. I enjoy deep diving into complex topics and turning my curiosity into practical skills.<br/>
 <br/>
-**NB: I'm also a Tekken Master(self-proclaimed)**
 
 ```
 $ uptime
