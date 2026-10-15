@@ -36,7 +36,6 @@ $ uptime
 $ learning --current
 > ISC2 Certification in Cybersecurity
 > Linux fundamentals
-> Database Systems(Advanced SQL Concepts)
 > Probability & Statistics
 > JavaFX
 > Cloud deployment & DevOps
