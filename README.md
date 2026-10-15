@@ -39,7 +39,6 @@ $ learning --current
 > Database Systems(Advanced SQL Concepts)
 > Probability & Statistics
 > JavaFX
-> FXGL library
 > Cloud deployment & DevOps
 > NoSQL
 > 3d Modelling in 3ds Max
